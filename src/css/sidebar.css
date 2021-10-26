@@ -1,0 +1,14 @@
+table {
+    width: 10%;
+    
+}
+
+table, th, td {
+    border: 1px black;
+    border-collapse: collapse;
+  }
+
+th {
+    background-color: orange;
+    color: white;
+}
